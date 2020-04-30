@@ -1,0 +1,8 @@
+link appetize : https://appetize.io/app/c5mf8hmhk1rrzkwpt9ef6n2xug
+
+assalamuallaikum kak, sebelumnya saya meminta maaf jika merepotkan.. 
+karena sepertinya appetize tidak suport dengan file json yang saya buat tolong jika ingin melihat hasil compile kakak pull 
+file saya ya.. dan dirun di android studio.. bisa di emulator atau dengan menggunakan handphone kalau bisa yang apinya lumayan tinggi
+karna kalau dirun dibeberapa hp yang tidak support maka tidak akan berjalan
+terimakasih kak. 
+wassalamuallaikum
